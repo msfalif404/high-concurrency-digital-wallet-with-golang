@@ -39,7 +39,7 @@ Ensure you have the following running in your environment:
 
 1.  **Clone the repository**
     ```bash
-    git clone <your-repo-url>
+    git clone git@github.com:msfalif404/high-concurrency-digital-wallet-with-golang.git
     cd digital-wallet
     ```
 
